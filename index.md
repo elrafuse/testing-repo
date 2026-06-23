@@ -1,7 +1,13 @@
+---
+lesson-example: "https://carpentries.github.io/lesson-example"
+---
+
 #Building Websites in GitHub
 
 ## Description
 {{ site.description }}
+
+Here is an [example lesson]({{page.lesson-example}}) from 
 
 More details about the project available from the [About page](about.md)
 
