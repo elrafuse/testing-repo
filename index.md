@@ -7,7 +7,7 @@ lesson-example: "https://carpentries.github.io/lesson-example"
 ## Description
 {{ site.description }}
 
-Here is an [example lesson]({{page.lesson-example}}) from 
+Here is an [example lesson]({{page.lesson-example}}) from software carpentries.
 
 More details about the project available from the [About page](about.md)
 
